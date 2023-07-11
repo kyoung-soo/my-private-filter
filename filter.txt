@@ -1,0 +1,5 @@
+!manatoki
+
+||manatoki*.net/data/banner/*$image
+||manatoki*.net/data/banner/*?_=*$image
+||manatoki*.net/data/banner/*?_=*$image
