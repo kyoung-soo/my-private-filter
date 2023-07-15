@@ -3,3 +3,14 @@
 ||manatoki*.net/data/banner/*$image
 ||manatoki*.net/data/banner/*?_=*$image
 ||manatoki*.net/data/banner/*?_=*$image
+||manatoki*.net/data/banner/*
+||manatoki*.net/tokinbtoki/*.gif?_=*
+
+!newtoki
+newtoki*.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki*.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki*.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki*.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki*.com/data/banner/*
+||newtoki*.com/tokinbtoki/*.gif?_=*
+newtoki*.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
